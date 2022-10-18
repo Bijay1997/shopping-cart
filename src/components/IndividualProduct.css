@@ -1,0 +1,41 @@
+.image{
+
+ position: relative;
+ 
+ /* margin: 10px 10px; */
+  /* justify-content: space-between;
+ padding: 15px 15px;
+ text-align:center;
+ height: 300px;
+ padding-left: 20px; */
+
+}
+.shoppingCard{
+ 
+ width: 20%;
+ position: relative;
+  display: inline-flex; 
+ /* margin: 10px 10px; */
+ /* justify-content: space-between; */
+ padding-left:50px;
+ text-align:center;
+ height: 300px;
+ /* background: rgb(238,238,238) */
+ 
+   
+}
+
+
+.btn{
+    /* margin-top: 50px; */
+    height: 30px;
+    background: black;
+    color:white;
+    align-items: center;
+    cursor:pointer;
+    transition: 0.2s ease;
+
+}
+.btn:hover{
+    background-color: rgb(234,191,0);
+}
